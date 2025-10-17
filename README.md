@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there!👋
+Welcome to my little corner of the internet 👩‍💻  
 
-<!--
-**tarsilafritz/tarsilafritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About me
+- 🎓 Software Engineering student in Brazil
+- 💻 Learning C# and Python  
+- ☕ Runs on coffee and curiosity
+- 💜 Tech enthusiast
+- 🎮 Love playing games, reading, and drawing from time to time 🎨
 
-Here are some ideas to get you started:
+🔗 [GitHub](https://github.com/tarsilafritz) | [LinkedIn](https://br.linkedin.com/in/tarsila-barros-fritz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌃 Stats
+![Tarsila's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarsilafritz&show_icons=true&theme=ocean_dark)
+![Tarsila's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarsilafritz&layout=compact&theme=ocean_dark&langs_count=10)
